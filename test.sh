@@ -1,2 +1,2 @@
 !#/bin/bash
-echO "Hello TR"
+echo "Hello TR"
